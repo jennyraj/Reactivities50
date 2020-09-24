@@ -31,7 +31,15 @@ namespace API
             {
                 opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddCors(opt => 
+            {
+                opt.AddPolicy("CorsPolicy", policy =>
+                {
+                    policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+                });
+            });
+            services.AddMvc(options => options.EnableEndpointRouting = false) 
+                .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,7 +56,9 @@ namespace API
             }
 
             // app.UseHttpsRedirection();
+            app.UseCors("CorsPolicy");
             app.UseMvc();
+            
         }
     }
 }

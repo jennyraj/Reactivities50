@@ -9,32 +9,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c61c358-3f81-480a-8466-dc6a810a9cab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/API/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/API/API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20190723033643_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20190723033643_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20190723035003_SeedValues.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20190723035003_SeedValues.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/DataContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Persistence.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Persistence.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +29,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/API/Startup.cs" />
         <option value="$PROJECT_DIR$/API/appsetting.json" />
         <option value="$PROJECT_DIR$/API/API.csproj" />
         <option value="$PROJECT_DIR$/Persistence/Migrations/20190723033643_InitialCreate.cs" />
         <option value="$PROJECT_DIR$/Persistence/Migrations/20190723035003_SeedValues.cs" />
         <option value="$PROJECT_DIR$/API/appsettings.json" />
         <option value="$PROJECT_DIR$/API/Program.cs" />
+        <option value="$PROJECT_DIR$/API/Startup.cs" />
+        <option value="$PROJECT_DIR$/client-app/src/App.tsx" />
       </list>
     </option>
   </component>
@@ -65,19 +48,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502825" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29943502" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Projects/Dv4Printxxxx" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Ignore Files Support" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\JetBrains Rider 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.API: IIS Express (2)">
+  <component name="RunManager" selected="npm.start">
     <configuration name="API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
       <option name="LAUNCH_PROFILE_NAME" value="API" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -120,6 +106,36 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="API: IIS Express (3)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="API: IIS Express (4)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -135,8 +151,30 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.API" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (1)" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (2)" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (3)" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (4)" />
+      <item itemvalue="npm.start" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue=".NET Launch Settings Profile.API: IIS Express (4)" />
+        <item itemvalue=".NET Launch Settings Profile.API: IIS Express (3)" />
         <item itemvalue=".NET Launch Settings Profile.API: IIS Express (2)" />
         <item itemvalue=".NET Launch Settings Profile.API: IIS Express (1)" />
       </list>
@@ -153,8 +191,17 @@
       <workItem from="1600820896564" duration="213000" />
       <workItem from="1600873177312" duration="1150000" />
       <workItem from="1600896093567" duration="3144000" />
-      <workItem from="1600907126628" duration="517000" />
+      <workItem from="1600907126628" duration="2855000" />
+      <workItem from="1600962218171" duration="2522000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1600907895505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600907895505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,27 +223,108 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="739" height="135" key="GridCell.Tab.0.bottom" timestamp="1600898470520">
+    <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600962383850">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="135" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600898470520" />
-    <state width="739" height="135" key="GridCell.Tab.0.center" timestamp="1600898470520">
+    <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1600962383850" />
+    <state width="739" height="95" key="GridCell.Tab.0.bottom" timestamp="1600967839382">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="135" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600898470520" />
-    <state width="739" height="135" key="GridCell.Tab.0.left" timestamp="1600898470520">
+    <state width="739" height="95" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
+    <state width="739" height="95" key="GridCell.Tab.0.center" timestamp="1600967839382">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="135" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600898470520" />
-    <state width="739" height="135" key="GridCell.Tab.0.right" timestamp="1600898470520">
+    <state width="739" height="95" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
+    <state width="739" height="95" key="GridCell.Tab.0.left" timestamp="1600967839382">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="135" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600898470520" />
-    <state x="555" y="92" key="SettingsEditor" timestamp="1600907645510">
+    <state width="739" height="95" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
+    <state width="739" height="95" key="GridCell.Tab.0.right" timestamp="1600967839382">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="555" y="92" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600907645510" />
+    <state width="739" height="95" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
+    <state width="739" height="158" key="GridCell.Tab.1.bottom" timestamp="1600909273312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600909273312" />
+    <state width="739" height="158" key="GridCell.Tab.1.center" timestamp="1600909273312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1600909273312" />
+    <state width="739" height="158" key="GridCell.Tab.1.left" timestamp="1600909273312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1600909273312" />
+    <state width="739" height="158" key="GridCell.Tab.1.right" timestamp="1600909273312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1600909273312" />
+    <state width="739" height="158" key="GridCell.Tab.2.bottom" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.2.center" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.2.left" timestamp="1600909273312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1600909273312" />
+    <state width="739" height="158" key="GridCell.Tab.2.right" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.3.bottom" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.3.center" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.3.left" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state width="739" height="158" key="GridCell.Tab.3.right" timestamp="1600909273313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="739" height="158" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1600909273313" />
+    <state x="555" y="92" key="SettingsEditor" timestamp="1600909345128">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="92" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600909345128" />
+    <state x="697" y="180" key="Vcs.Push.Dialog.v2" timestamp="1600908084658">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="697" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600908084658" />
+    <state x="889" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600908073503">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="889" y="348" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600908073503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/API/Controllers/ValuesController.cs</url>
+          <line>26</line>
+          <properties documentPath="C:\Users\jennyraj\Desktop\React\Section2\Reactivities\API\Controllers\ValuesController.cs" initialLine="26">
+            <startOffsets>
+              <option value="684" />
+            </startOffsets>
+            <endOffsets>
+              <option value="702" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
