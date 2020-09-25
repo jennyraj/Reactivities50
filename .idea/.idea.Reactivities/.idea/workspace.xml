@@ -14,9 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c61c358-3f81-480a-8466-dc6a810a9cab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/snippets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domain/Activity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistence/Seed.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20200923220801_Initial.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20200923220801_Initial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/DataContextModelSnapshot.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/37755F2E-610F-46CF-88F1-D140C0010200/9/RelationalDatabaseFacadeExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -34,9 +44,13 @@
         <option value="$PROJECT_DIR$/Persistence/Migrations/20190723033643_InitialCreate.cs" />
         <option value="$PROJECT_DIR$/Persistence/Migrations/20190723035003_SeedValues.cs" />
         <option value="$PROJECT_DIR$/API/appsettings.json" />
-        <option value="$PROJECT_DIR$/API/Program.cs" />
         <option value="$PROJECT_DIR$/API/Startup.cs" />
         <option value="$PROJECT_DIR$/client-app/src/App.tsx" />
+        <option value="$PROJECT_DIR$/API/Program.cs" />
+        <option value="$PROJECT_DIR$/Persistence/Seed.cs" />
+        <option value="$PROJECT_DIR$/Domain/Activity.cs" />
+        <option value="$PROJECT_DIR$/Persistence/Migrations/20200925012101_pk.cs" />
+        <option value="$PROJECT_DIR$/Persistence/DataContext.cs" />
       </list>
     </option>
   </component>
@@ -193,6 +207,8 @@
       <workItem from="1600896093567" duration="3144000" />
       <workItem from="1600907126628" duration="2855000" />
       <workItem from="1600962218171" duration="2522000" />
+      <workItem from="1600984348843" duration="2659000" />
+      <workItem from="1600995784710" duration="2509000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1600907895505</created>
@@ -201,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600907895505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="session 2 end">
+      <created>1600984629393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600984629393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +247,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="session 2 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 2 end" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600962383850">
@@ -299,10 +323,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="555" y="92" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600909345128" />
-    <state x="697" y="180" key="Vcs.Push.Dialog.v2" timestamp="1600908084658">
+    <state x="697" y="180" key="Vcs.Push.Dialog.v2" timestamp="1600984632277">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="697" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600908084658" />
+    <state x="697" y="180" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600984632277" />
     <state x="889" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600908073503">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

@@ -41,6 +41,7 @@
         </e>
       </e>
       <e p="Domain" t="IncludeRecursive">
+        <e p="Activity.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Domain.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
@@ -57,8 +58,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="DataContext.cs" t="Include" />
         <e p="Migrations" t="Include">
-          <e p="20200923220801_Initial.cs" t="Include" />
-          <e p="20200923220801_Initial.Designer.cs" t="Include" />
+          <e p="20200925014725_Initial.cs" t="Include" />
+          <e p="20200925014725_Initial.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -68,7 +69,13 @@
             </e>
           </e>
         </e>
+        <e p="Persistence" t="Include">
+          <e p="obj" t="Include">
+            <e p=".EntityFrameworkCore.targets" t="Include" />
+          </e>
+        </e>
         <e p="Persistence.csproj" t="IncludeRecursive" />
+        <e p="Seed.cs" t="Include" />
       </e>
       <e p="Reactivities.sln" t="IncludeFlat" />
     </e>
