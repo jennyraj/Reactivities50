@@ -14,16 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c61c358-3f81-480a-8466-dc6a810a9cab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/snippets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/Activity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/Seed.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20200923220801_Initial.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/20200923220801_Initial.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Migrations/DataContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Class1.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +30,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/37755F2E-610F-46CF-88F1-D140C0010200/9/RelationalDatabaseFacadeExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/API/appsetting.json" />
-        <option value="$PROJECT_DIR$/API/API.csproj" />
-        <option value="$PROJECT_DIR$/Persistence/Migrations/20190723033643_InitialCreate.cs" />
-        <option value="$PROJECT_DIR$/Persistence/Migrations/20190723035003_SeedValues.cs" />
-        <option value="$PROJECT_DIR$/API/appsettings.json" />
-        <option value="$PROJECT_DIR$/API/Startup.cs" />
-        <option value="$PROJECT_DIR$/client-app/src/App.tsx" />
-        <option value="$PROJECT_DIR$/API/Program.cs" />
-        <option value="$PROJECT_DIR$/Persistence/Seed.cs" />
-        <option value="$PROJECT_DIR$/Domain/Activity.cs" />
-        <option value="$PROJECT_DIR$/Persistence/Migrations/20200925012101_pk.cs" />
-        <option value="$PROJECT_DIR$/Persistence/DataContext.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Application/Activities/Create.cs" />
+      <option value="$PROJECT_DIR$/API/Startup.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1htCD6foF81DyCtdLNtTszm71wF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,8 +47,15 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502825" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29943502" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Projects/Dv4Printxxxx" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -74,26 +63,11 @@
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\JetBrains Rider 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected=".NET Launch Settings Profile.API: IIS Express (5)">
     <configuration name="API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
       <option name="LAUNCH_PROFILE_NAME" value="API" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="API: IIS Express (1)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
-      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -150,6 +124,21 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="API: IIS Express (5)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/API/API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -178,19 +167,19 @@
     <list>
       <item itemvalue=".NET Launch Settings Profile.API" />
       <item itemvalue=".NET Launch Settings Profile.API: IIS Express" />
-      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (1)" />
       <item itemvalue=".NET Launch Settings Profile.API: IIS Express (2)" />
       <item itemvalue=".NET Launch Settings Profile.API: IIS Express (3)" />
       <item itemvalue=".NET Launch Settings Profile.API: IIS Express (4)" />
       <item itemvalue="npm.start" />
+      <item itemvalue=".NET Launch Settings Profile.API: IIS Express (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Launch Settings Profile.API: IIS Express (5)" />
         <item itemvalue="npm.start" />
         <item itemvalue=".NET Launch Settings Profile.API: IIS Express (4)" />
         <item itemvalue=".NET Launch Settings Profile.API: IIS Express (3)" />
         <item itemvalue=".NET Launch Settings Profile.API: IIS Express (2)" />
-        <item itemvalue=".NET Launch Settings Profile.API: IIS Express (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +198,7 @@
       <workItem from="1600962218171" duration="2522000" />
       <workItem from="1600984348843" duration="2659000" />
       <workItem from="1600995784710" duration="2509000" />
+      <workItem from="1601147242516" duration="3852000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1600907895505</created>
@@ -255,22 +245,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1600962383850" />
-    <state width="739" height="95" key="GridCell.Tab.0.bottom" timestamp="1600967839382">
+    <state width="1342" height="211" key="GridCell.Tab.0.bottom" timestamp="1601149501576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="95" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
-    <state width="739" height="95" key="GridCell.Tab.0.center" timestamp="1600967839382">
+    <state width="1342" height="211" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601149501576" />
+    <state width="1342" height="211" key="GridCell.Tab.0.center" timestamp="1601149501576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="95" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
-    <state width="739" height="95" key="GridCell.Tab.0.left" timestamp="1600967839382">
+    <state width="1342" height="211" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601149501576" />
+    <state width="1342" height="211" key="GridCell.Tab.0.left" timestamp="1601149501576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="95" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
-    <state width="739" height="95" key="GridCell.Tab.0.right" timestamp="1600967839382">
+    <state width="1342" height="211" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601149501576" />
+    <state width="1342" height="211" key="GridCell.Tab.0.right" timestamp="1601149501576">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="739" height="95" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600967839382" />
+    <state width="1342" height="211" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601149501576" />
     <state width="739" height="158" key="GridCell.Tab.1.bottom" timestamp="1600909273312">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -338,14 +328,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/API/Controllers/ValuesController.cs</url>
           <line>26</line>
-          <properties documentPath="C:\Users\jennyraj\Desktop\React\Section2\Reactivities\API\Controllers\ValuesController.cs" initialLine="26">
-            <startOffsets>
-              <option value="684" />
-            </startOffsets>
-            <endOffsets>
-              <option value="702" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\Users\jennyraj\Desktop\React\Section2\Reactivities\API\Controllers\ValuesController.cs" initialLine="26" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
